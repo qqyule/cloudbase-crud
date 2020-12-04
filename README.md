@@ -17,3 +17,5 @@ yarn serve
 ```
 
 [DEMO](https://qqyule.github.io/cloudbase-crud/)
+
+[DEMO码云加速](http://qqyule.gitee.io/cloudbase-crud/)
