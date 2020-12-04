@@ -1,19 +1,16 @@
-# cloudbase-demo
+## 云函数部署
+- 云开发后台创建云函数，上传functions文件夹下文件，修改云环境ID
+- 云开发创建数据库集合
 
-## Project setup
+## 本地开发
 ```
-yarn install
+npn install
+//或者
+yarn
 ```
-
-### Compiles and hot-reloads for development
+## 开发环境
 ```
+npm run serve
+//或者
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
